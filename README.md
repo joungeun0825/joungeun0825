@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=mythofsummer&animation=blink&color=gradient)
 <div align="center"> 
-
+![header](https://capsule-render.vercel.app/api?type=venom&text=mythofsummer&animation=blink&color=gradient)
 
 ####  :wave: Welcome my github profile !
 
@@ -18,10 +17,9 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
  
   <br/>
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/mythofsummer)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mythofsummer)](https://solved.ac/mythofsummer)
 </div>
