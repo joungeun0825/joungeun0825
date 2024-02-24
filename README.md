@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=mythofsummer&animation=blink&color=gradient)
+![header]([https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&textBg=false&fontColor=a))
 
 ####  :wave: Welcome my github profile !
 
