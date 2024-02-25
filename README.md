@@ -12,7 +12,8 @@
  <br/>
   
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=Spring Boot&logoColor=6DB33F"/>
- 
+<img src="https://img.shields.io/badge/SpringSecurity?style=flat&logo=Spring Security&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Java-green?style=flaty&logoColor=339999"/>
    <br/>
    <br/>
  
