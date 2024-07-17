@@ -5,9 +5,6 @@
 Hello! I'm backend Developer
 
   
- <br/>
- <br/>
- 
  #
  
 #### 🔥Tech Stack🔥
@@ -33,3 +30,24 @@ Hello! I'm backend Developer
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mythofsummer)](https://solved.ac/mythofsummer)
 </div>
+   
+  #
+ 
+ #### Blog 최신글
+ <table><tbody><tr>
+ <td>
+  <a href="https://mythofsummer-backend.tistory.com/4">
+        <img width="100%" src="	https://i1.daumcdn.net/thumb/C264x200/?fname=https…/3hkl5/btsIAvjRXlK/8gw5jw9t1SkKtUGKjmIaEK/img.png"/><br/>
+        <div>CPU Bound Application 만들기: MD5 해시 연산을 이용한 예제 </div>
+    </a>
+    <div>24.07.17</div>
+ </td>
+  <td>
+  <a href="https://mythofsummer-backend.tistory.com/3">
+        <img width="100%" src="	https://blog.kakaocdn.net/dn/bYrJ6Z/btsIAQUvz3U/oYfGnBh5IQyOG7kjSikKQ0/img.png"/><br/>
+        <div> Google Cloud Platform(GCP) 인스턴스에 docker 설치 </div>
+    </a>
+    <div>24.07.16</div>
+ </td>
+</tr>
+</tbody></table>
