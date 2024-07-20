@@ -33,6 +33,10 @@ Hello! I'm backend Developer
    
   #
  
+ #### 논문
+ https://ieeexplore.ieee.org/abstract/document/9952772
+  #
+ 
  #### Blog 최신글
  <table><tbody><tr>
     <td>
