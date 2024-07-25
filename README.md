@@ -39,6 +39,21 @@ Hello! I'm backend Developer
  
  #### Blog 최신글
  <table><tbody><tr>
+   <td>
+  <a href="https://mythofsummer-backend.tistory.com/6">
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+        <div> 애플리케이션 도커 이미지로 만들고 GCP에 배포하기 </div>
+    </a>
+    <br/>
+    <div>이 글에서는 Maven으로 패키징된 애플리케이션을 Docker를 사용하여 GCP 인스턴스에서 실행하는 방법을 단계별로 설명하겠습니다. 이 과정에서는 Dockerfile을 작성하고, Docker 이미지를 빌드 및 푸시한 후, GCP 인스턴스에서 이미지를 실행하는 방법을 다룹니다.  1. Dockerfile 작성하기먼저 IntelliJ IDEA에서 Maven으로 패키징된 .jar 파일을 Docker 이미지로 만들기 위해 Dockerfile을 작성합니다. Dockerfile의 내용은 다음과 같...</div>
+    <br/>
+    <div>24.07.25</div>
+ </td>
     <td>
   <a href="https://mythofsummer-backend.tistory.com/5">
         <img width="100%" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FpPOab%2FbtsID3ergzh%2FwE3mg9DFGFYzHnrbIkJ6k0%2Fimg.png"/><br/>
